@@ -1,1 +1,1 @@
-/home/hoswoo/Desktop/Programming/Rust/graphs/target/debug/graphs: /home/hoswoo/Desktop/Programming/Rust/graphs/src/main.rs
+/home/hoswoo/Desktop/Git/Github/rusty-graph/target/debug/graphs: /home/hoswoo/Desktop/Git/Github/rusty-graph/src/main.rs
